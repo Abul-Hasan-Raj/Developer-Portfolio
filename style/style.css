@@ -28,3 +28,7 @@ nav li {
     list-style: none;
     margin-left: 50px;
 }
+
+.banner {
+    margin: 0px 200px;
+}
