@@ -9,6 +9,7 @@ nav {
     display: flex;
     justify-content: space-between;
     margin: 50px 200px;
+    align-items: center;
 }
 
 .nav-title {
@@ -31,4 +32,6 @@ nav li {
 
 .banner {
     margin: 0px 200px;
+    display: flex;
+    align-items: center;
 }
